@@ -13,21 +13,21 @@ This Terraform code is used to create a highly available web infrastructure with
 
 1. Clone this repository:
 
-    git clone https://github.com/daisukebtw/Highly-Available-Remote-State-Webserver-with-VPC
+        git clone https://github.com/daisukebtw/Highly-Available-Remote-State-Webserver-with-VPC
 
 2. Change into the cloned directory
 
 3. Initialize the backend:
 
-    terraform init
+        terraform init
 
 4. Apply the code:
 
-    terraform apply
+        terraform apply
 
 5. Destroy the infrastructure when finished:
 
-    terraform destroy
+        terraform destroy
 
 ## Components
 
