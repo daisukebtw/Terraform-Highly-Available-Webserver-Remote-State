@@ -1,14 +1,12 @@
 ![My Remote Image](https://i.ibb.co/PGRsmhR/aws-tf.png)
 
 
-# AWS and Terraform
+# Highly Available Remote State Webserver with VPC using Terraform
 
 In this repository, I have posted my second project named Highly Available Remote State Webserver with VPC that i made myself using AWS and Terraform
 
 
 # Terraform
-
-### Highly Available Remote State Webserver with VPC using Terraform
 
 To launch the highly available remote state web server infrastructure, follow these steps:
 
